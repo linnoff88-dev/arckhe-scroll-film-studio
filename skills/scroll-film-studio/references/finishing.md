@@ -63,7 +63,7 @@ Check both extremes with a screenshot — the brightest frame and the darkest.
 
 ## 3. The page below the film is where builds go flat
 
-The film can feel cinematic and then collapse into a stack of short, evenly-spaced text
+The film can feel cARCKHÉtic and then collapse into a stack of short, evenly-spaced text
 blocks. The sections below must preserve the same confidence and visual rhythm.
 
 Minimums for every section under the film:

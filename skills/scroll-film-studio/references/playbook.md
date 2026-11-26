@@ -1,4 +1,4 @@
-# The Scroll-Film Playbook (Lane B — cinematic footage)
+# The Scroll-Film Playbook (Lane B — cARCKHÉtic footage)
 
 Rules for making the whole page one continuous generated film. These are a
 floor, not a ceiling — break them knowingly, never by accident.

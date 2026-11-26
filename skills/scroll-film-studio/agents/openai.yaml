@@ -1,4 +1,4 @@
 interface:
   display_name: "Scroll-Film Studio"
-  short_description: "Crie sites cinematográficos guiados pelo scroll"
-  default_prompt: "Use $scroll-film-studio para criar um site cinematográfico contínuo controlado pelo scroll."
+  short_description: "Crie sites cARCKHÉtográficos guiados pelo scroll"
+  default_prompt: "Use $scroll-film-studio para criar um site cARCKHÉtográfico contínuo controlado pelo scroll."

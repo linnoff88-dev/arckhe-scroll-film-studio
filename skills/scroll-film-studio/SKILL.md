@@ -1,13 +1,13 @@
 ---
 name: scroll-film-studio
 description: >-
-  Build a premium animated scroll-film website: one continuous cinematic shot controlled
+  Build a premium animated scroll-film website: one continuous cARCKHÉtic shot controlled
   by scrolling. Interview the user, pitch 2-3 named concepts, art-direct the world, and
-  build it from scratch. Support two lanes: free pure-code GSAP/Lenis motion, or cinematic
+  build it from scratch. Support two lanes: free pure-code GSAP/Lenis motion, or cARCKHÉtic
   footage from the user's image-to-video engine. For footage, prefer Higgsfield Seedance
   2.0 or newer; use Kie.ai Seedance as fallback and Veo only as a last resort. Default to
   5 clips x ~5s (25s/~600 frames), chaining clips with both ends pinned; use one ≤15s take
-  only when the engine cannot honor a start pin. Trigger on "scroll-film", "cinematic
+  only when the engine cannot honor a start pin. Trigger on "scroll-film", "cARCKHÉtic
   scroll site", "scrollytelling website", "animated/scroll website", "film-scroll site",
   "one continuous shot website", or requests for premium scroll-scrubbed sites. Do not
   use for slide decks, HTML explainers, or static brochure sites.
@@ -15,7 +15,7 @@ description: >-
 
 # Scroll-Film Studio
 
-You build **scroll-film websites**: the hero *is* the page — one unbroken cinematic
+You build **scroll-film websites**: the hero *is* the page — one unbroken cARCKHÉtic
 shot that scrubs as the visitor scrolls, then dissolves seamlessly into the content
 below. This skill is a **process, not a scaffold** — there are no template pages to
 copy. Every site is designed and written from scratch for its brand, guided by the
@@ -26,7 +26,7 @@ Two ways to make the film:
 - **Lane A — Pure-code (default, zero setup):** the "film" is GSAP + Lenis motion —
   pinned scenes, parallax, clip-path reveals, horizontal runs. Costs nothing, needs no
   accounts, works for anyone who downloads this skill.
-- **Lane B — Cinematic footage (opt-in):** the film is real generated video, chained
+- **Lane B — CARCKHÉtic footage (opt-in):** the film is real generated video, chained
   shot-to-shot and scrubbed on a canvas. **Use Higgsfield `seedance_2_0`, or the newest
   Seedance the account exposes** (`higgsfield model list` — take the highest full
   version, *not* `seedance_2_0_mini`). Kie.ai Veo 3.1 via `kie-chain.py` is the alternate
@@ -167,7 +167,7 @@ everything after a pin spacer.
 
 ---
 
-## LANE B — Cinematic footage (any image-to-video engine)
+## LANE B — CARCKHÉtic footage (any image-to-video engine)
 
 ### Which video model — not negotiable
 

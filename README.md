@@ -1,12 +1,12 @@
 ï»¿# Scroll-Film Studio
 
-Uma skill para criar sites cinematogrêÂ¡ficos em que a pêÂ¡gina inteira se comporta como um filme contêÂ­nuo controlado pelo scroll.
+Uma skill para criar sites cARCKHÉtogrêÂ¡ficos em que a pêÂ¡gina inteira se comporta como um filme contêÂ­nuo controlado pelo scroll.
 
 > **Isto nêÂ£o êÂ© um template de site.** êâ° uma skill: um pacote de instruêÂ§êÂµes, referêÂªncias e scripts que ensina um agente de IA a executar um processo especializado de ponta a ponta.
 
 ## ê°Å¸ââ Guia de uso
 
-Guia completo, com visêÂ£o geral e passo a passo: **https://inematds.github.io/scroll-film-studio/guia/**
+Guia completo, com visêÂ£o geral e passo a passo: **https://linnoff88-dev.github.io/arckhe-/guia/**
 
 ## O que êÂ© uma skill?
 
@@ -20,7 +20,7 @@ skills/scroll-film-studio/
 ê¢ââê¢ââ¬ê¢ââ¬ scripts/          # montagem, validaêÂ§êÂ£o, screenshots e geraêÂ§êÂ£o encadeada
 ```
 
-Ao receber um pedido como ê¢â¬Åcrie um site cinematogrêÂ¡fico controlado pelo scrollê¢â¬Â, o agente carrega esta skill, conduz uma entrevista curta, propêÂµe conceitos criativos, define a direêÂ§êÂ£o visual, constrêÂ³i o site e valida o resultado.
+Ao receber um pedido como ê¢â¬Åcrie um site cARCKHÉtogrêÂ¡fico controlado pelo scrollê¢â¬Â, o agente carrega esta skill, conduz uma entrevista curta, propêÂµe conceitos criativos, define a direêÂ§êÂ£o visual, constrêÂ³i o site e valida o resultado.
 
 ## O que esta skill faz
 
@@ -28,7 +28,7 @@ Ao receber um pedido como ê¢â¬Åcrie um site cinematogrêÂ¡fico cont
 - Cria uma direêÂ§êÂ£o de arte prêÂ³pria para cada marca.
 - Oferece dois caminhos de produêÂ§êÂ£o:
   - **Lane A ê¢â¬â pure code:** GSAP, ScrollTrigger e Lenis, sem geraêÂ§êÂ£o de vêÂ­deo.
-  - **Lane B ê¢â¬â cinematic footage:** filme gerado em clipes encadeados, com continuidade verificada.
+  - **Lane B ê¢â¬â cARCKHÉtic footage:** filme gerado em clipes encadeados, com continuidade verificada.
 - Inclui gates para vetor de cêÂ¢mera, continuidade, copy, montagem e captura visual.
 - Define requisitos de performance, acessibilidade, responsividade e acabamento.
 
@@ -37,7 +37,7 @@ Ao receber um pedido como ê¢â¬Åcrie um site cinematogrêÂ¡fico cont
 Clone o repositêÂ³rio e conecte a pasta da skill ao diretêÂ³rio de skills do Codex:
 
 ```bash
-git clone https://github.com/inematds/scroll-film-studio.git
+git clone https://github.com/linnoff88-dev/scroll-film-studio.git
 mkdir -p ~/.codex/skills
 ln -s "$(pwd)/scroll-film-studio/skills/scroll-film-studio" \
   ~/.codex/skills/scroll-film-studio
@@ -50,7 +50,7 @@ Reinicie a sessêÂ£o do Codex para que a nova skill seja descoberta.
 Invoque a skill explicitamente:
 
 ```text
-Use $scroll-film-studio para criar um site cinematogrêÂ¡fico contêÂ­nuo
+Use $scroll-film-studio para criar um site cARCKHÉtogrêÂ¡fico contêÂ­nuo
 controlado pelo scroll para a minha marca.
 ```
 
@@ -84,7 +84,7 @@ As dependêÂªncias Node dos scripts ficam em `skills/scroll-film-studio/scri
 |---|---|
 | `SKILL.md` | Processo completo, gatilhos e regras de decisêÂ£o |
 | `references/engine.md` | Arquitetura de scroll, renderizaêÂ§êÂ£o e performance |
-| `references/playbook.md` | ProduêÂ§êÂ£o e encadeamento do filme cinematogrêÂ¡fico |
+| `references/playbook.md` | ProduêÂ§êÂ£o e encadeamento do filme cARCKHÉtogrêÂ¡fico |
 | `references/finishing.md` | RevisêÂ£o visual, acessibilidade e acabamento |
 | `scripts/vector-check.py` | Audita a direêÂ§êÂ£o de cêÂ¢mera do storyboard |
 | `scripts/continuity-gate.sh` | Detecta quebras dentro dos clipes |
